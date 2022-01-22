@@ -1,4 +1,12 @@
 # Towards Online Waypoint Generation for a Quadrotor Using Enhanced Monocular Depth Estimation.
+## Authors
+● Arunava Basu
+
+● Paras Savnani
+
+● Naitri Rajyaguru
+
+● Hirunima Jayasekara
 
 ## Overview
 
